@@ -74,15 +74,12 @@ footer {
     color: white;
 }
 
-
-
-
 /* Classes */
 .border {
     border: 5px solid black;
 }
 .image{
-    padding: 1 em;
+    padding: 1em;
     margin: 1em; 
 }
 .underline {
